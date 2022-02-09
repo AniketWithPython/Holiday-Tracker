@@ -10,6 +10,7 @@ Notes:<br>
 * Can be used as startup application (Place app/shortcut in Startup folder by typing `shell:startup` in Run)
 * Always on top window
 * The number in the bracket represents the status code
+* The main python script is given the [Script](https://github.com/AniketWithPython/Holiday-Tracker/tree/main/Script) folder
 
 <br><br>
 List of status codes and their meanings:
