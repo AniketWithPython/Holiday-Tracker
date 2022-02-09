@@ -27,7 +27,7 @@ List of status codes and their meanings:
 <br><br>
 API used: [https://calendarific.com/](https://calendarific.com/)
 
-[Link To Software](https://drive.google.com/drive/folders/1k6Us2RrQFFCdYwpc_sSlI5zt-bFAuZND?usp=sharing)
+
 
 
 > Holidays OP™ For Microsoft® Windows™ © 2022 Aniket Maity, All Rights Reserved
