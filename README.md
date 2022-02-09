@@ -1,6 +1,6 @@
 `OPERATIONAL`
 
-Holiday Tracker for Windows
+Holiday Tracker for Microsoft® Windows™
 
 My first GUI and API based application<br><br>
 ![image](https://user-images.githubusercontent.com/98256334/150673288-d6c6d958-e63f-4658-b2ee-a2a85a5432c9.png)
